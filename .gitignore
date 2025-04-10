@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+
+# Ignore SQLite database (for local dev only)
+db.sqlite3
+
+# Ignore environment variable files
+.env
+*.pyc
+.DS_Store
+
+
